@@ -4,7 +4,7 @@ This project is based on an ML research paper - **Machine Learning-Based Crop Yi
  [Link to research paper](https://www.mdpi.com/2809008)
 
 
-## The project compares different model on the data and concludes tree based models are the best
+### The project compares different model on the data and concludes tree based models are the best
 
 The project compares
 - Linear Regression
