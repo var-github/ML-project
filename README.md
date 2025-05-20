@@ -4,9 +4,9 @@ This project is based on an ML research paper - **Machine Learning-Based Crop Yi
  [Link to research paper](https://www.mdpi.com/2809008)
 
 
-### The project compares different model on the data and concludes tree based models are the best
+### The project aims to compares different model on the data and conclude which model best fits the data
 
-The project compares
+The project uses these models in the comparison
 - Linear Regression
 - Gradient Boosting Regression
 - Random Forest Regression
@@ -17,6 +17,7 @@ The project compares
 - Bayesian Ridge Regression
 - Ridge Regression
 
+> Conclusion: Tree bases models were the best, particularly Random Forest Regression
 
 All data used to train the model were collected from [http://data.icrisat.org/dld/](http://data.icrisat.org/dld/)
 
